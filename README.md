@@ -18,11 +18,11 @@ Welcome to the **Ghostly Shadow Data Architect Series**. This repository contain
 
 ---
 
-## 📅 Day 1: SQL for Excel Mastery
-**Objective:** Stop thinking in Cells. Start thinking in SQL.
+## 📅 Day 1: Data Cleaning Mastery
+**Objective:** Stop being a Data Janitor. Master the art of 1-click data cleaning.
 
-### 📥 Download Day 1
-[SQL_for_Excel_Mastery_by_Ghostieemoh.xlsx](./SQL_for_Excel_Mastery_by_Ghostieemoh.xlsx)
+### 🔗 Day 1 Repository
+[Data-Cleaning-Excel-Template](https://github.com/Ghostiemoh/Data-Cleaning-Excel-Template)
 
 ---
 
