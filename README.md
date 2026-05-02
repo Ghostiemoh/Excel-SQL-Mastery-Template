@@ -1,45 +1,31 @@
-# SQL Mastery for Excel Users
+# 30-Day Data Architect Series 🚀
 
-Stop thinking in Cells. Start thinking in SQL.
-
-This workbook is designed to bridge the gap between Excel "Spreadsheet Thinking" and SQL "Logic-Based Thinking." It contains 5 hands-on exercises that teach you core SQL concepts using tools you already use in Excel.
-
-**Every exercise auto-checks your answer.**
-
-## 📥 Download
-Download the template here: [SQL_for_Excel_Mastery_by_Ghostieemoh.xlsx](./SQL_for_Excel_Mastery_by_Ghostieemoh.xlsx)
+Welcome to the **Ghostly Shadow Data Architect Series**. This repository contains hands-on Mastery Labs for every day of our 30-day curriculum designed to transform you into a world-class Data Architect.
 
 ---
 
-## What's Inside?
+## 📅 Day 2: VLOOKUP vs XLOOKUP Mastery Lab
+**Objective:** Master the transition from legacy lookups to modern, dynamic data architecture.
 
-### 1. The SELECT Statement (Selection)
-- **SQL:** `SELECT ID, Name, Salary FROM Employees`
-- **Excel Hack:** Learn to manage data structure by selecting only necessary columns using Power Query or Column Management.
+### 📥 Download Day 2
+[Day2_XLOOKUP_Mastery_Lab.xlsx](./Day2_XLOOKUP_Mastery/Day2_XLOOKUP_Mastery_Lab.xlsx)
 
-### 2. The WHERE Clause (Filtering)
-- **SQL:** `... WHERE Region = 'West'`
-- **Excel Hack:** Master standard and Advanced filters to apply logical conditions to your datasets.
-
-### 3. The JOIN Operation (XLOOKUP)
-- **SQL:** `LEFT JOIN t2 ON t1.ID = t2.ID`
-- **Excel Hack:** Master `XLOOKUP` as a functional join and learn about Power Query Merges.
-
-### 4. GROUP BY (Pivot Tables)
-- **SQL:** `SELECT Dept, SUM(Salary) GROUP BY Dept`
-- **Excel Hack:** Aggregation logic using Pivot Tables to summarize high volumes of data.
-
-### 5. SELECT DISTINCT (Unique Values)
-- **SQL:** `SELECT DISTINCT Category FROM Table`
-- **Excel Hack:** Handling duplicates using the `=UNIQUE()` function and the Remove Duplicates tool.
+**What's Inside:**
+- **40 Challenges:** Scaling from basic lookups to advanced SKU logic and error handling.
+- **Looking Left:** Master the technique that VLOOKUP simply can't do.
+- **Built-in Error Handling:** Build cleaner formulas without `IFERROR`.
+- **Full Employee & Product Databases:** Real-world scale data for practice.
 
 ---
 
-## Extras
-- **Full Answer Key:** Includes SQL equivalents for every Excel operation.
-- **SQL for Excel Cheat Sheet:** A quick reference for translating your Excel knowledge into SQL code.
+## 📅 Day 1: SQL for Excel Mastery
+**Objective:** Stop thinking in Cells. Start thinking in SQL.
+
+### 📥 Download Day 1
+[SQL_for_Excel_Mastery_by_Ghostieemoh.xlsx](./SQL_for_Excel_Mastery_by_Ghostieemoh.xlsx)
 
 ---
 
+## 🎯 Connect & Learn
 *Created by Muhammad Auwal Abdul Aziz (@Ghostieemoh)*
-*Follow on [LinkedIn](https://www.linkedin.com/in/ghostieemoh/), [X (Twitter)](https://twitter.com/Ghostieemoh), and [TikTok/Instagram (@Ghostiemoh)] for more Excel mastery.*
+*Follow on [LinkedIn](https://www.linkedin.com/in/ghostieemoh/), [X (Twitter)](https://twitter.com/Ghostieemoh), and [TikTok/Instagram (@Ghostiemoh)] for more Data mastery.*
