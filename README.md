@@ -19,6 +19,19 @@ Over the next 30 days, we will systematically master the tools of modern data en
 
 ## 📂 Active Mastery Labs
 
+### 📅 Day 3: INDEX & MATCH Masterclass
+**Level:** Advanced  
+**Topic:** Modular logic, 2-Way Lookups, and Performance Architecture.
+
+- **[📥 Download the Day 3 Mastery Lab (40 Challenges)](./Day3_INDEX_MATCH_Mastery/Day3_INDEX_MATCH_Mastery_Lab.xlsx)**
+- **What's Inside:** 
+  - 40 Interactive Tasks on modular search logic.
+  - 2-Way Matrix intersection (Row + Column).
+  - High-performance lookups for large datasets.
+  - Dynamic header-based attribute retrieval.
+
+---
+
 ### 📅 Day 2: VLOOKUP vs XLOOKUP Masterclass
 **Level:** Intermediate to Advanced  
 **Topic:** Transitioning from legacy formulas to dynamic, resilient data architecture.
