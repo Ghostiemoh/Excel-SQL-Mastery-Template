@@ -19,6 +19,19 @@ Over the next 30 days, we will systematically master the tools of modern data en
 
 ## 📂 Active Mastery Labs
 
+### 📅 Day 4: Logical Functions Masterclass
+**Level:** Advanced  
+**Topic:** Decision Engines, Boolean Logic (AND/OR), and Nested vs IFS.
+
+- **[📥 Download the Day 4 Mastery Lab (40 Challenges)](./Day4_Logical_Functions_Mastery/Day4_Logical_Functions_Mastery_Lab.xlsx)**
+- **What's Inside:** 
+  - 40 Interactive Tasks on building "Spreadsheet Brains".
+  - Complex Boolean scenarios (AND/OR/NOT).
+  - Clean architecture with IFS() and SWITCH().
+  - Error Resilience using IFERROR() fallbacks.
+
+---
+
 ### 📅 Day 3: INDEX & MATCH Masterclass
 **Level:** Advanced  
 **Topic:** Modular logic, 2-Way Lookups, and Performance Architecture.
