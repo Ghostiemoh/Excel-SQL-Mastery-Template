@@ -19,6 +19,19 @@ Over the next 30 days, we will systematically master the tools of modern data en
 
 ## 📂 Active Mastery Labs
 
+### 📅 Day 5: Pivot Table Masterclass
+**Level:** Intermediate to Advanced  
+**Topic:** Dimensional Analysis, Time Intelligence, and Interactive Dashboards.
+
+- **[📥 Download the Day 5 Mastery Lab (40 Challenges)](./Day5_Pivot_Tables_Mastery/Day5_Pivot_Tables_Mastery_Lab.xlsx)**
+- **What's Inside:** 
+  - 40 Interactive Tasks on summarizing 500+ rows of data.
+  - Automatic Time Grouping (Months/Quarters/Years).
+  - Calculated Fields logic (Math inside the Pivot).
+  - Professional UX with Interactive Slicers.
+
+---
+
 ### 📅 Day 4: Logical Functions Masterclass
 **Level:** Advanced  
 **Topic:** Decision Engines, Boolean Logic (AND/OR), and Nested vs IFS.
