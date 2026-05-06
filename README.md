@@ -25,10 +25,10 @@ Over the next 30 days, we will systematically master the tools of modern data en
 
 - **[📥 Download the Day 6 Mastery Lab (40 Challenges)](./Day6_Date_Time_Mastery/Day6_Date_Time_Mastery_Lab.xlsx)**
 - **What's Inside:** 
-  - 40 Interactive Tasks on DATEDIF, EOMONTH, and NETWORKDAYS.
-  - Automated project timeline calculations.
-  - Financial cutoff logic and dynamic reporting dates.
-  - Custom Working Day exclusion for global teams.
+  - **40 Interactive Tasks** on DATEDIF, EOMONTH, and NETWORKDAYS.
+  - **Real-time Validation Engine**: Get instant ✅/❌ feedback as you type.
+  - **The Manual (Cheat Sheet)**: Full archive of correct formulas and solutions.
+  - **Premium Guide**: Visual instructions and function breakdowns for absolute mastery.
 
 ---
 
