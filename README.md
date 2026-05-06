@@ -19,6 +19,19 @@ Over the next 30 days, we will systematically master the tools of modern data en
 
 ## 📂 Active Mastery Labs
 
+### 📅 Day 6: Power Query Masterclass
+**Level:** Intermediate to Advanced  
+**Topic:** ETL Pipelines, Data Transformation, and Automated Cleaning.
+
+- **[📥 Download the Day 6 Mastery Lab (40 Challenges)](./Day6_Power_Query_Mastery/Day6_Power_Query_Mastery_Lab.xlsx)**
+- **What's Inside:** 
+  - 40 Interactive Tasks on building automated data pipelines.
+  - Reshaping logic: Mastering the 'Unpivot' magic.
+  - Connecting and Merging multiple data sources.
+  - Step-by-step recording for 1-click automation.
+
+---
+
 ### 📅 Day 5: Pivot Table Masterclass
 **Level:** Intermediate to Advanced  
 **Topic:** Dimensional Analysis, Time Intelligence, and Interactive Dashboards.
