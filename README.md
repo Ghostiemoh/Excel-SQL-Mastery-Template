@@ -36,12 +36,12 @@ Over the next 30 days, we will systematically master the tools of modern data en
 **Level:** Intermediate to Advanced  
 **Topic:** Dimensional Analysis, Time Intelligence, and Interactive Dashboards.
 
-- **[📥 Download the Day 5 Mastery Lab (40 Challenges)](./Day5_Pivot_Tables_Mastery/Day5_Pivot_Tables_Mastery_Lab.xlsx)**
+- **[📥 Download the Day 5 Mastery Lab (40 Challenges)](./Day5_Pivot_Tables_Mastery/Pivot_Table_Mastery_Lab.xlsx)**
 - **What's Inside:** 
-  - 40 Interactive Tasks on summarizing 500+ rows of data.
-  - Automatic Time Grouping (Months/Quarters/Years).
-  - Calculated Fields logic (Math inside the Pivot).
-  - Professional UX with Interactive Slicers.
+  - **40 Interactive Tasks** on summarized analytics and dashboard logic.
+  - **Real-time Validation Engine**: Get instant ✅/❌ feedback.
+  - **The Manual (Cheat Sheet)**: Full archive of correct methods.
+  - **Premium Guide**: Mastery-level instructions for high-speed reporting.
 
 ---
 
@@ -49,12 +49,12 @@ Over the next 30 days, we will systematically master the tools of modern data en
 **Level:** Advanced  
 **Topic:** Decision Engines, Boolean Logic (AND/OR), and Nested vs IFS.
 
-- **[📥 Download the Day 4 Mastery Lab (40 Challenges)](./Day4_Logical_Functions_Mastery/Day4_Logical_Functions_Mastery_Lab.xlsx)**
+- **[📥 Download the Day 4 Mastery Lab (40 Challenges)](./Day4_Logical_Functions_Mastery/Advanced_Logic_Mastery_Lab.xlsx)**
 - **What's Inside:** 
-  - 40 Interactive Tasks on building "Spreadsheet Brains".
-  - Complex Boolean scenarios (AND/OR/NOT).
-  - Clean architecture with IFS() and SWITCH().
-  - Error Resilience using IFERROR() fallbacks.
+  - **40 Interactive Tasks** on building 'Spreadsheet Brains'.
+  - **Real-time Validation Engine**: Instant ✅/❌ feedback for every logical gate.
+  - **The Manual (Cheat Sheet)**: Detailed logic breakdowns and answers.
+  - **Premium Guide**: Master the complex IF/IFS logic architecture.
 
 ---
 
@@ -64,10 +64,10 @@ Over the next 30 days, we will systematically master the tools of modern data en
 
 - **[📥 Download the Day 3 Mastery Lab (40 Challenges)](./Day3_INDEX_MATCH_Mastery/Day3_INDEX_MATCH_Mastery_Lab.xlsx)**
 - **What's Inside:** 
-  - 40 Interactive Tasks on modular search logic.
-  - 2-Way Matrix intersection (Row + Column).
-  - High-performance lookups for large datasets.
-  - Dynamic header-based attribute retrieval.
+  - **40 Interactive Tasks** on modular lookup architecture.
+  - **Real-time Validation Engine**: Instant ✅/❌ feedback for matrix lookups.
+  - **The Manual (Cheat Sheet)**: Full archive of INDEX/MATCH configurations.
+  - **Premium Guide**: Build bulletproof search engines that never break.
 
 ---
 
@@ -75,12 +75,12 @@ Over the next 30 days, we will systematically master the tools of modern data en
 **Level:** Intermediate to Advanced  
 **Topic:** Transitioning from legacy formulas to dynamic, resilient data architecture.
 
-- **[📥 Download the Day 2 Mastery Lab (40 Challenges)](./Day2_XLOOKUP_Mastery/Day2_XLOOKUP_Mastery_Lab.xlsx)**
+- **[📥 Download the Day 2 Mastery Lab (40 Challenges)](./Day2_XLOOKUP_Mastery/XLOOKUP_Mastery_Lab.xlsx)**
 - **What's Inside:** 
-  - 40 Interactive Tasks scaling from basic to expert.
-  - "Looking Left" techniques (The VLOOKUP killer).
-  - Built-in error handling logic.
-  - 100+ rows of real-world Employee & Product data.
+  - **40 Interactive Tasks** on modern data retrieval.
+  - **Real-time Validation Engine**: Instant ✅/❌ feedback for your lookups.
+  - **The Manual (Cheat Sheet)**: Master list of lookup formulas and scenarios.
+  - **Premium Guide**: Learn to search across columns with zero effort.
 
 ---
 
@@ -88,11 +88,12 @@ Over the next 30 days, we will systematically master the tools of modern data en
 **Level:** Beginner to Intermediate  
 **Topic:** 1-Click Data Cleaning systems.
 
-- **[📥 Download the Day 1 Template](./Day1_Data_Cleaning/Data_Cleaning_Template_by_Ghostieemoh.xlsx)**
-- **What's Inside:**
-  - Automated cleaning workflows for messy raw data.
-  - Trim, Clean, and Case-matching logic.
-  - System-first approach to preparing data for analysis.
+- **[📥 Download the Day 1 Mastery Lab (40 Challenges)](./Day1_Data_Cleaning/Data_Cleaning_Mastery_Lab.xlsx)**
+- **What's Inside:** 
+  - **40 Interactive Tasks** on standardized cleaning.
+  - **Real-time Validation Engine**: Instant ✅/❌ feedback for your cleaning logic.
+  - **The Manual (Cheat Sheet)**: Full archive of text cleaning solutions.
+  - **Premium Guide**: How to build a 1-click cleaning pipeline.
 
 ---
 
