@@ -19,16 +19,16 @@ Over the next 30 days, we will systematically master the tools of modern data en
 
 ## 📂 Active Mastery Labs
 
-### 📅 Day 6: Power Query Masterclass
+### 📅 Day 6: Date & Time Intelligence Masterclass
 **Level:** Intermediate to Advanced  
-**Topic:** ETL Pipelines, Data Transformation, and Automated Cleaning.
+**Topic:** Temporal Logic, Financial Deadlines, and Working Day Automation.
 
-- **[📥 Download the Day 6 Mastery Lab (40 Challenges)](./Day6_Power_Query_Mastery/Day6_Power_Query_Mastery_Lab.xlsx)**
+- **[📥 Download the Day 6 Mastery Lab (40 Challenges)](./Day6_Date_Time_Mastery/Day6_Date_Time_Mastery_Lab.xlsx)**
 - **What's Inside:** 
-  - 40 Interactive Tasks on building automated data pipelines.
-  - Reshaping logic: Mastering the 'Unpivot' magic.
-  - Connecting and Merging multiple data sources.
-  - Step-by-step recording for 1-click automation.
+  - 40 Interactive Tasks on DATEDIF, EOMONTH, and NETWORKDAYS.
+  - Automated project timeline calculations.
+  - Financial cutoff logic and dynamic reporting dates.
+  - Custom Working Day exclusion for global teams.
 
 ---
 
