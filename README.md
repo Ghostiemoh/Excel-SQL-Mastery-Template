@@ -19,6 +19,19 @@ Over the next 30 days, we will systematically master the tools of modern data en
 
 ## 📂 Active Mastery Labs
 
+### 📅 Day 7: Dynamic Arrays Masterclass
+**Level:** Advanced  
+**Topic:** The Spilling Revolution, FILTER, SORT, and UNIQUE.
+
+- **[📥 Download the Day 7 Mastery Lab (40 Challenges)](./Day7_Dynamic_Arrays_Mastery/Dynamic_Arrays_Mastery_Lab.xlsx)**
+- **What's Inside:** 
+  - **40 Interactive Tasks** on mastering the modern 'Spilling' engine.
+  - **Real-time Validation Engine**: Instant ✅/❌ feedback for your array logic.
+  - **The Manual (Cheat Sheet)**: Full archive of dynamic array solutions.
+  - **Premium Guide**: Learn to build auto-updating reports with zero manual dragging.
+
+---
+
 ### 📅 Day 6: Date & Time Intelligence Masterclass
 **Level:** Intermediate to Advanced  
 **Topic:** Temporal Logic, Financial Deadlines, and Working Day Automation.
