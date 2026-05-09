@@ -19,6 +19,19 @@ Over the next 30 days, we will systematically master the tools of modern data en
 
 ## 📂 Active Mastery Labs
 
+### 📅 Day 8: Data Validation & UI Masterclass
+**Level:** Intermediate  
+**Topic:** Input Governance, Dependent Dropdowns, and Error Resilience.
+
+- **[📥 Download the Day 8 Mastery Lab (40 Challenges)](./Day8_Data_Validation_Mastery/Validation_Mastery_Lab.xlsx)**
+- **What's Inside:** 
+  - **40 Interactive Tasks** on building bulletproof user interfaces.
+  - **Real-time Validation Engine**: Instant ✅/❌ feedback for your UI logic.
+  - **The Manual (Cheat Sheet)**: Full archive of validation methods and error alerts.
+  - **Premium Guide**: Master the INDIRECT function for intelligent dependent dropdowns.
+
+---
+
 ### 📅 Day 7: Dynamic Arrays Masterclass
 **Level:** Advanced  
 **Topic:** The Spilling Revolution, FILTER, SORT, and UNIQUE.
