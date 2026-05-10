@@ -19,6 +19,19 @@ Over the next 30 days, we will systematically master the tools of modern data en
 
 ## 📂 Active Mastery Labs
 
+### 📅 Day 9: Power Pivot & Data Modeling Masterclass
+**Level:** Advanced  
+**Topic:** Relational Data, Star Schema, and DAX Fundamentals.
+
+- **[📥 Download the Day 9 Mastery Lab (40 Challenges)](./Day9_Power_Pivot_Mastery/PowerPivot_Mastery_Lab.xlsx)**
+- **What's Inside:** 
+  - **40 Interactive Tasks** on building enterprise-scale data models.
+  - **Real-time Validation Engine**: Instant ✅/❌ feedback for your modeling logic.
+  - **The Manual (Cheat Sheet)**: Full archive of DAX measures and schema patterns.
+  - **Premium Guide**: Break the 1-million row limit with the Power Pivot engine.
+
+---
+
 ### 📅 Day 8: Data Validation & UI Masterclass
 **Level:** Intermediate  
 **Topic:** Input Governance, Dependent Dropdowns, and Error Resilience.
