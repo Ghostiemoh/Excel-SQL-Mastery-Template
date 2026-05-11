@@ -19,6 +19,19 @@ Over the next 30 days, we will systematically master the tools of modern data en
 
 ## 📂 Active Mastery Labs
 
+### 📅 Day 10: Advanced Power Query & M-Language Masterclass
+**Level:** Advanced  
+**Topic:** ETL Automation, Unpivoting, and M-Code Logic.
+
+- **[📥 Download the Day 10 Mastery Lab (40 Challenges)](./Day10_Power_Query_Mastery/PowerQuery_Mastery_Lab.xlsx)**
+- **What's Inside:** 
+  - **40 Interactive Tasks** on building industrial-grade data pipelines.
+  - **Real-time Validation Engine**: Instant ✅/❌ feedback for your transformation logic.
+  - **The Manual (Cheat Sheet)**: Full archive of M-formulas and unpivot patterns.
+  - **Premium Guide**: Learn to automate the extraction and transformation of messy data.
+
+---
+
 ### 📅 Day 9: Power Pivot & Data Modeling Masterclass
 **Level:** Advanced  
 **Topic:** Relational Data, Star Schema, and DAX Fundamentals.
