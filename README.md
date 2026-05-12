@@ -19,6 +19,19 @@ Over the next 30 days, we will systematically master the tools of modern data en
 
 ## 📂 Active Mastery Labs
 
+### 📅 Day 11: Financial Intelligence & Cash Flow Modeling Masterclass
+**Level:** Advanced  
+**Topic:** ROI, NPV, IRR, and Amortization Schedules.
+
+- **[📥 Download the Day 11 Mastery Lab (40 Challenges)](./Day11_Financial_Intelligence/Financial_Mastery_Lab.xlsx)**
+- **What's Inside:** 
+  - **40 Interactive Tasks** on building institutional-grade financial models.
+  - **Real-time Validation Engine**: Instant ✅/❌ feedback for your capital math.
+  - **The Manual (Cheat Sheet)**: Full archive of financial formulas (PMT, IPMT, NPV).
+  - **Premium Guide**: Master the time value of money and cash flow architecture.
+
+---
+
 ### 📅 Day 10: Advanced Power Query & M-Language Masterclass
 **Level:** Advanced  
 **Topic:** ETL Automation, Unpivoting, and M-Code Logic.
