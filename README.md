@@ -19,6 +19,19 @@ Over the next 30 days, we will systematically master the tools of modern data en
 
 ## 📂 Active Mastery Labs
 
+### 📅 Day 12: Predictive Analytics & Forecasting Masterclass
+**Level:** Advanced  
+**Topic:** FORECAST.ETS, GROWTH, Seasonality, and R-Squared.
+
+- **[📥 Download the Day 12 Mastery Lab (40 Challenges)](./Day12_Predictive_Analytics/Predictive_Mastery_Lab.xlsx)**
+- **What's Inside:** 
+  - **40 Interactive Tasks** on building predictive models and trend analysis.
+  - **Real-time Validation Engine**: Instant ✅/❌ feedback for your forecasting logic.
+  - **The Manual (Cheat Sheet)**: Full archive of predictive formulas (ETS, GROWTH, Conf. Intervals).
+  - **Premium Guide**: Master the art of seeing forward with statistical accuracy.
+
+---
+
 ### 📅 Day 11: Financial Intelligence & Cash Flow Modeling Masterclass
 **Level:** Advanced  
 **Topic:** ROI, NPV, IRR, and Amortization Schedules.
