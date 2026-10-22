@@ -190,3 +190,7 @@ I build systems that transform raw, chaotic data into high-fidelity on-chain int
 
 *“The goal of a Data Architect is to make the analysis the easiest part of the job.”* 
 **Follow the series. Build the future.**
+
+## On my portfolio
+
+- Listed with my other work at [ghostiemoh.com](https://ghostiemoh.com/#work)
